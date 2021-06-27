@@ -43,7 +43,7 @@ def create_footer():
                 html.A(['HackerRank @dewangpatil30081'], 
                     href='https://www.hackerrank.com/dewangpatil30081?hr_r=1',
                     className='hackerrank', target='_blank'),
-                html.A(['GitHub'], href='#', className='git', target='_blank'),
+                html.A(['GitHub'], href='https://github.com/dewangpatil30', className='git', target='_blank'),
             ], className='fDiv2'),
 
             html.Div([
